@@ -19,7 +19,6 @@ body{
 
 #nav h1 {
 	float: left;
-	font-size: 15px;
 } 
 
 #nav h1 a {
@@ -65,5 +64,5 @@ body{
 #hello2 {
 	background: url(money.jpg) no-repeat;
 	width: 100%;
-	height: 0px;
+	height: 600px;
 }
